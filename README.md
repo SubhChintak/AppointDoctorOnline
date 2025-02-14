@@ -9,6 +9,6 @@ This project is a website designed to facilitate hassle-free online booking of d
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/SubhChintak/AppointDoctorOnline.git](https://www.google.com/search?q=https://github.com/SubhChintak/AppointDoctorOnline.git)
+   git clone https://github.com/SubhChintak/AppointDoctorOnline.git
 
    
