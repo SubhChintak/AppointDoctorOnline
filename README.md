@@ -1,6 +1,6 @@
 # Appoint Doctor Online
 
-This project is a website designed to facilitate hassle-free online booking of doctor's appointments specifically for the Agartala region.  Users can browse doctors from various specializations and book appointments from anywhere, at any time.
+This project is a website designed to facilitate hassle-free online booking of doctors' appointments specifically for the Agartala region.  Users can browse doctors from various specializations and book appointments from anywhere, at any time.
 
 
 
